@@ -1,3 +1,7 @@
+# Target dan rencana saya
+
+
+
 <p align="center">
   <img src="prabaca-banner.png" alt="Prabaca â€” HRIS prediktif yang membaca sinyal sebelum karyawan resign" width="100%" />
 </p>
